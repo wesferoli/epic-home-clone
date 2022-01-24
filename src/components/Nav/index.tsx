@@ -3,7 +3,7 @@ import SearchInput from '../SearchInput';
 
 const Nav = () => {
   return (
-    <nav>
+    <nav className="navContainer">
       <SearchInput />
 
       <div className='center-links'>
